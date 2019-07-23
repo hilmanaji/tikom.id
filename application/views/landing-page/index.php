@@ -40,8 +40,8 @@
             <i class="fas fa-circle fa-stack-2x text-primary"></i>
             <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
           </span>
-          <h4 class="service-heading">Web Security</h4>
-          <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+          <h4 class="service-heading">Merch, Ads and Digital Printing</h4>
+          <p class="text-muted">Kami mengerjakan juga pembuatan Merchendise, pembuatan iklan dan berbagai produk Percetakan Digital.</p>
         </div>
       </div>
     </div>
@@ -64,7 +64,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="<?= base_url(); ?>assets/img/portfolio/pln.jpg" alt="">
+            <img class="img-fluid" src="<?= base_url(); ?>assets/img/portfolio/pln.jepg" alt="">
           </a>
           <div class="portfolio-caption">
             <h4>Project Management</h4>
@@ -78,7 +78,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="<?= base_url(); ?>assets/img/portfolio/e-disukcapil.jpg" alt="">
+            <img class="img-fluid" src="<?= base_url(); ?>assets/img/portfolio/e-disukcapil.jepg" alt="">
           </a>
           <div class="portfolio-caption">
             <h4>E-Disdukcapil</h4>
@@ -92,7 +92,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="<?= base_url(); ?>assets/img/portfolio/concord.jpg" alt="">
+            <img class="img-fluid" src="<?= base_url(); ?>assets/img/portfolio/concord.jepg" alt="">
           </a>
           <div class="portfolio-caption">
             <h4>SISFO Design</h4>
@@ -106,7 +106,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="<?= base_url(); ?>assets/img/portfolio/cuti.jpg" alt="">
+            <img class="img-fluid" src="<?= base_url(); ?>assets/img/portfolio/cuti.jepg" alt="">
           </a>
           <div class="portfolio-caption">
             <h4>SISFO CUTI</h4>
@@ -120,7 +120,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="<?= base_url(); ?>assets/img/portfolio/kaizen.jpg" alt="">
+            <img class="img-fluid" src="<?= base_url(); ?>assets/img/portfolio/kaizen.jepg" alt="">
           </a>
           <div class="portfolio-caption">
             <h4>SISFO KAIZEN</h4>
@@ -134,7 +134,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="<?= base_url(); ?>assets/img/portfolio/mcu.jpg" alt="">
+            <img class="img-fluid" src="<?= base_url(); ?>assets/img/portfolio/mcu.jepg" alt="">
           </a>
           <div class="portfolio-caption">
             <h4>SISFO MCU</h4>
@@ -287,8 +287,8 @@
         <div class="col-sm-4">
           <div class="team-member">
             <img class="mx-auto rounded-circle" src="<?= base_url(); ?>assets/img/team/3.jpg" alt="">
-            <h4>Diana Pertersen</h4>
-            <p class="text-muted">Lead Developer</p>
+            <h4>Kamu, Iya kamu</h4>
+            <p class="text-muted">The Leader</p>
             <ul class="list-inline social-buttons">
               <li class="list-inline-item">
                 <a href="#">
