@@ -1,3 +1,17 @@
+  
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5d5d10c377aa790be330002f/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
   <!-- Header -->
   <header class="masthead">
     <div class="container">
@@ -64,7 +78,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="<?= base_url(); ?>assets/img/portfolio/pln.jepg" alt="">
+            <img class="img-fluid" src="<?= base_url(); ?>assets/img/portfolio/pln.png" alt="">
           </a>
           <div class="portfolio-caption">
             <h4>Project Management</h4>
@@ -78,7 +92,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="<?= base_url(); ?>assets/img/portfolio/e-disukcapil.jepg" alt="">
+            <img class="img-fluid" src="<?= base_url(); ?>assets/img/portfolio/e-disdukcapil.png" alt="">
           </a>
           <div class="portfolio-caption">
             <h4>E-Disdukcapil</h4>
@@ -92,7 +106,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="<?= base_url(); ?>assets/img/portfolio/concord.jepg" alt="">
+            <img class="img-fluid" src="<?= base_url(); ?>assets/img/portfolio/concord.png" alt="">
           </a>
           <div class="portfolio-caption">
             <h4>SISFO Design</h4>
@@ -106,7 +120,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="<?= base_url(); ?>assets/img/portfolio/cuti.jepg" alt="">
+            <img class="img-fluid" src="<?= base_url(); ?>assets/img/portfolio/cuti.png" alt="">
           </a>
           <div class="portfolio-caption">
             <h4>SISFO CUTI</h4>
@@ -120,7 +134,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="<?= base_url(); ?>assets/img/portfolio/kaizen.jepg" alt="">
+            <img class="img-fluid" src="<?= base_url(); ?>assets/img/portfolio/kaizen.png" alt="">
           </a>
           <div class="portfolio-caption">
             <h4>SISFO KAIZEN</h4>
@@ -134,7 +148,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="<?= base_url(); ?>assets/img/portfolio/mcu.jepg" alt="">
+            <img class="img-fluid" src="<?= base_url(); ?>assets/img/portfolio/mcu.png" alt="">
           </a>
           <div class="portfolio-caption">
             <h4>SISFO MCU</h4>
@@ -151,7 +165,7 @@
       <div class="row">
         <div class="col-lg-12 text-center">
           <h2 class="section-heading text-uppercase">About</h2>
-          <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+          <h3 class="section-subheading text-muted">Our life Journey</h3>
         </div>
       </div>
       <div class="row">
@@ -163,11 +177,12 @@
               </div>
               <div class="timeline-panel">
                 <div class="timeline-heading">
-                  <h4>2009-2011</h4>
-                  <h4 class="subheading">Our Humble Beginnings</h4>
+                  <h4>June 2013</h4>
+                  <h5 class="subheading">Our Vocational Highschool Graduation</h5>
                 </div>
                 <div class="timeline-body">
-                  <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                  <p class="text-muted">
+                    Fazri graduated in Bandung and Hilman graduated in Subang</p>
                 </div>
               </div>
             </li>
@@ -177,8 +192,8 @@
               </div>
               <div class="timeline-panel">
                 <div class="timeline-heading">
-                  <h4>March 2011</h4>
-                  <h4 class="subheading">An Agency is Born</h4>
+                  <h4>August 2016</h4>
+                  <h5 class="subheading">An Agency is Born</h5>
                 </div>
                 <div class="timeline-body">
                   <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
@@ -286,7 +301,7 @@
         </div>
         <div class="col-sm-4">
           <div class="team-member">
-            <img class="mx-auto rounded-circle" src="<?= base_url(); ?>assets/img/team/3.jpg" alt="">
+            <img class="mx-auto rounded-circle" src="<?= base_url(); ?>assets/img/team/x.jpg" alt="">
             <h4>Kamu, Iya kamu</h4>
             <p class="text-muted">The Leader</p>
             <ul class="list-inline social-buttons">
@@ -311,7 +326,7 @@
       </div>
       <div class="row">
         <div class="col-lg-8 mx-auto text-center">
-          <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+          <p class="large text-muted">Kami Percaya Bahwa Team yang terbaik adalah bukan dengan pe.</p>
         </div>
       </div>
     </div>
